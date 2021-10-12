@@ -1,8 +1,8 @@
 # Table of contents
 
-* [MONSTER ADVENTURE](README.md)
-  * [English](monster-adventure/english.md)
-  * [Español](monster-adventure/espanol.md)
+* [MONSTER ADVENTURE GAME](README.md)
+  * [English](monster-adventure-game/english.md)
+  * [Español](monster-adventure-game/espanol.md)
 
 ## GAME PLAY
 
