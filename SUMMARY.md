@@ -1,7 +1,8 @@
 # Table of contents
 
 * [MONSTER ADVENTURE](README.md)
-  * [Whitepaper](monster-adventure/whitepaper.md)
+  * [English](monster-adventure/english.md)
+  * [Español](monster-adventure/espanol.md)
 
 ## GAME PLAY
 
